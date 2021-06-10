@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+}
+
+.left,
+.right {
+  float: left;
+  width: 50%;
+  
+  border: 10px solid white;
+  box-sizing: border-box;
+
+  padding: 5%;
+}
+
+iframe {
+    display:block;
+    width:100%;
+}
